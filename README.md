@@ -1,9 +1,7 @@
-
-
-
-
-
-
+eProjectSem01_Wilson Sporting Goods_Group07
+===========================================
+Wilson Sporting Goods
+=======================================
 Supervisor : LÊ THANH NHÂN
 Semester : I
 Batch no. : T1.2110.A0
