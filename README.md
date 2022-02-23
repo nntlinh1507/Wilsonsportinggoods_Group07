@@ -12,5 +12,5 @@ Nguyễn Thanh Tùng	Student1341542
 Nguyễn Đức Anh	Student1341589
 =====================================
 Documentations: 
-Published Website:
+Published Website:https://nntlinh1507.github.io/Wilsonsportinggoods_Group07/
 Thank you for visiting our Website.
