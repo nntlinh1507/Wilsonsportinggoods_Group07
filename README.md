@@ -11,6 +11,6 @@ Nguyễn Ngọc Trúc Linh	Student1344661
 Nguyễn Thanh Tùng	Student1341542
 Nguyễn Đức Anh	Student1341589
 =====================================
-Documentations: 
+Documentations: https://github.com/nntlinh1507/Wilsonsportinggoods_Group07/tree/main/Documentation
 Published Website:https://nntlinh1507.github.io/Wilsonsportinggoods_Group07/
 Thank you for visiting our Website.
